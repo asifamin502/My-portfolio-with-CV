@@ -1,0 +1,184 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: "EB Garamond", serif;
+    
+    
+    
+}
+
+.fullpf{
+    
+   
+    margin: 30px 30px;
+    
+    
+}
+
+.left{
+position: relative;
+
+height: 250px;
+width: 100%;
+
+
+}
+
+.left > h1{
+letter-spacing: 5px;
+
+
+}
+
+
+.left > h2{
+    letter-spacing: 2px;
+
+
+
+
+
+}
+
+
+.left > img{
+
+position: absolute;
+left: 70% ;
+top: 10%;
+
+
+
+
+
+}
+
+.info1{
+width: 50%;
+font-size: 1.1rem;
+font-weight: 500;
+position: absolute;
+
+
+
+}
+
+
+
+
+
+
+.right{
+    position: relative;
+    
+    height: 250px;
+    width: 100%;
+
+
+
+}
+
+
+
+.right > h2{
+
+    position: absolute;
+    left: 50%;
+
+    
+}
+
+
+.right > h3{
+
+    position: absolute;
+    left: 50%;
+    top: 13%;
+
+    
+}
+
+
+
+.right > h2,h3{
+
+   letter-spacing: 3px;
+   
+
+    
+}
+
+.right > img{
+    position: absolute;
+    right: 70%;
+    top: 5%;
+}
+
+
+.info2{
+    width: 50%;
+    font-size: 1.1rem;
+    font-weight: 500;
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    
+
+
+}
+
+button{
+position: absolute;
+top: 70%;
+left: 50%;
+width: 10%;
+height: 15%;
+background-color: rgb(61, 24, 117);
+color: white;
+border-radius: 20px;
+box-shadow: 8px 8px 30px 10px rgb(61, 24, 117);
+cursor: no-drop;
+
+
+}
+
+.btn > a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+
+.last{
+    position: relative;
+    background-color: rgb(201, 244, 230);
+    height: 180px;
+    width: 100%;
+   
+
+
+
+}
+
+
+.last > h2{
+    letter-spacing: 3px;
+    text-align: center;
+    
+
+
+}
+
+.last ol{
+    list-style-type: circle;
+    text-align: center;
+    font-weight: 400;
+    font-size: 1.2rem;
+    list-style-position: inside;
+}
+
+

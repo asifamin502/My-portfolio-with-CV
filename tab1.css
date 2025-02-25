@@ -1,0 +1,204 @@
+div.fullcv {
+    div.up {
+      img.pi1 {
+  
+      }
+  
+      div.name {
+        top: 10%;
+        h1 {
+            font-size: 1.5rem;
+  
+        }
+  
+        h2 {
+            font-size: 1.5rem;
+  
+        }
+      }
+  
+      undefined {
+  
+      }
+  
+      div.aboutme {
+        h3 {
+  
+        }
+  
+        hr.hr {
+  
+        }
+  
+        p {
+            font-size: 0.8rem;
+  
+        }
+      }
+    }
+  
+    undefined {
+  
+    }
+  
+    div.twoside {
+      div.left {
+        div.skills {
+            left: 55px;
+          h2 {
+  
+          }
+  
+          hr.hr1 {
+  
+          }
+  
+          ol {
+            li.s1 {
+  
+            }
+  
+            br {
+  
+            }
+  
+            li.s2 {
+  
+            }
+  
+            li.s3 {
+  
+            }
+          }
+        }
+  
+        undefined {
+  
+        }
+  
+        div.language {
+            left: 55px;
+          h2 {
+  
+          }
+  
+          hr.hr2 {
+  
+          }
+  
+          ol {
+            li {
+  
+            }
+  
+            br {
+  
+            }
+          }
+        }
+  
+        div.contract {
+            left: 60px;
+          h2 {
+  
+          }
+  
+          hr.hr2 {
+  
+          }
+  
+          div.vr {
+            img.pl {
+  
+            }
+  
+            img.el {
+  
+            }
+  
+            img.ll {
+  
+            }
+          }
+  
+          undefined {
+  
+          }
+  
+          div.cinfo {
+            a#c1 {
+  
+            }
+  
+            br {
+  
+            }
+          }
+        }
+      }
+  
+      undefined {
+  
+      }
+  
+      div.right {
+        div.education {
+            left: 45px;
+          h2 {
+  
+          }
+  
+          hr.hr2 {
+  
+          }
+  
+          ol {
+            li {
+  
+            }
+          }
+  
+          undefined {
+  
+          }
+        }
+  
+        undefined {
+  
+        }
+  
+        div.projects {
+            left: 45px;
+          h2 {
+  
+          }
+  
+          hr.hr3 {
+  
+          }
+  
+          ol {
+            li {
+  
+            }
+          }
+        }
+      }
+    }
+  
+    div.last {
+      a {
+  
+      }
+  
+      div.last1 {
+        p {
+  
+        }
+      }
+    }
+  }
+  
+  undefined {
+  
+  }
